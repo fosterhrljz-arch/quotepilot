@@ -1,0 +1,4 @@
+47aad99bb1b3376a3b1a127d2d58b67d7e4f5ae85002d33f11c7326c7ac9e06b  QuotePilot-v1.0.zip
+acd90c4dc24ae8c51ca432a9d797202cf6e76d38f57836963415a2e58362ddb7  QuotePilot-v2.0.zip
+00adf10baff7faa48c7fa3c81d75c3b27c9b4100d9ab62e6ec75ede04f6e02ed  QuotePilot-v2.1-AgentGit.zip
+a59bc0fe1d641e9f5267dbc6c56d981dded36a50c9ad751e6262b382ed0d614a  QuotePilot-v2.1.zip

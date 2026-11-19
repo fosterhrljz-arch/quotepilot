@@ -1,0 +1,30 @@
+{
+  "product": "QuotePilot",
+  "version": "2.1",
+  "source_commit": "4726cf4d46818db1b8f8f088a3e91bf462c55543",
+  "application_unchanged": true,
+  "automated_tests": 70,
+  "external_authenticated_api": "unverified",
+  "screenshots": [
+    {
+      "path": "docs/screenshots/landing.jpg",
+      "bytes": 120734,
+      "sha256": "6f8fadf5126af82022c8091b75e85eaf7b7ba07fde91936210a6457d6308c19c"
+    },
+    {
+      "path": "docs/screenshots/procurement-dashboard.jpg",
+      "bytes": 147424,
+      "sha256": "e6939db16fc3fdc4d5da237f1979043f28b9421af9ab693519f07e5feb77bd87"
+    },
+    {
+      "path": "docs/screenshots/supplier-comparison.jpg",
+      "bytes": 117229,
+      "sha256": "0f5538d9335f96bcf49c1e76220f5bf4383e50838adbf3d8557fc8177833fc29"
+    },
+    {
+      "path": "docs/screenshots/ai-advisor.jpg",
+      "bytes": 219523,
+      "sha256": "1b372b2fc12a3f9ec9809dcd2c4b7cfc772433faa499c2a05bbf1f87a179dc7b"
+    }
+  ]
+}
